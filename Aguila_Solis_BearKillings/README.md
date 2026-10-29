@@ -18,6 +18,7 @@
 5. [Visualizations](#5-visualizations)
 6. [Key insights](#6-key-insights)
 7. [How to run](#7-how-to-run)
+8. [Open dashboard](https://johnking-solis.github.io/Midterms-2/Aguila_Solis_BearKillings/)
 
 ---
 
