@@ -1,8 +1,0 @@
-# Libraries used by notebooks/BearKillings_Midterm_Aguila_Solis.ipynb
-# Tested with: pandas 3.0.2, numpy 2.4.4, matplotlib 3.10.8, seaborn 0.13.2, scikit-learn 1.8.0
-pandas>=2.2
-numpy>=1.26
-matplotlib>=3.8
-seaborn>=0.13
-scikit-learn>=1.4
-jupyter>=1.0
