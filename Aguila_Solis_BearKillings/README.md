@@ -27,7 +27,7 @@
 | | |
 |---|---|
 | **Group name** | Aguila & Solis |
-| **Members** |  Aguila, Carl Michael P.,  Solis, John King Louies |
+| **Members** |  Aguila, Carl Michael P. ,  Solis, John King Louies |
 | **Assigned theme**  | Animals  |
 | **Topic** | North American bear killings: recorded fatal bear attacks |
 
