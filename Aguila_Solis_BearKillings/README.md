@@ -27,8 +27,8 @@
 | | |
 |---|---|
 | **Group name** | Aguila & Solis |
-| **Members** | [First name] Aguila, [First name] Solis |
-| **Assigned theme** | [Fill in your theme] |
+| **Members** |  Aguila, Carl Michael P. |  Solis, John King Louies
+| **Assigned theme**  | Animals  |
 | **Topic** | North American bear killings: recorded fatal bear attacks |
 
 ## 2. Project overview
@@ -36,7 +36,7 @@
 | | |
 |---|---|
 | **Dataset title** | North American bear killings (`north_america_bear_killings.csv`) |
-| **Source (URL or reference)** | Not included in the uploaded CSV. Descriptions contain citation markers such as `[7]`, so the text was likely compiled from published sources. Verify before citing. |
+| **Source (URL or reference)** | (https://www.kaggle.com/datasets/vainero/north-america-bear-killings)|
 | **License / attribution** | Unknown. Confirm the license before reuse. |
 | **Objective** | Clean and prepare 166 recorded incidents, then explore when, where, and to whom they were recorded, without treating counts as a measure of risk. |
 
