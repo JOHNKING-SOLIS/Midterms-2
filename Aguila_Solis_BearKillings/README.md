@@ -27,7 +27,7 @@
 | | |
 |---|---|
 | **Group name** | Aguila & Solis |
-| **Members** |  Aguila, Carl Michael P. |  Solis, John King Louies
+| **Members** |  Aguila, Carl Michael P.,  Solis, John King Louies |
 | **Assigned theme**  | Animals  |
 | **Topic** | North American bear killings: recorded fatal bear attacks |
 
@@ -38,7 +38,7 @@
 | **Dataset title** | North American bear killings (`north_america_bear_killings.csv`) |
 | **Source (URL or reference)** | (https://www.kaggle.com/datasets/vainero/north-america-bear-killings)|
 | **License / attribution** | Unknown. Confirm the license before reuse. |
-| **Objective** | Clean and prepare 166 recorded incidents, then explore when, where, and to whom they were recorded, without treating counts as a measure of risk. |
+| **Objective** |This project aims to clean and prepare 166 recorded bear-killing incidents in North America and understand how different factors, such as date, location, bear type, incident type, and other recorded details, are related to the reported incidents. It also aims to check missing values, duplicate rows, data types, and possible outliers to ensure the dataset is properly prepared for analysis. Through data preprocessing and  visualizations, we want to identify patterns in when, where, and how these incidents were recorded, without treating the number of recorded incidents as a measure of actual risk. |
 
 **Dataset at a glance:** 166 rows · 14 columns · years 1901 to 2018 · 2 settings (wild, captive) · 3 bear types (brown, black, polar)
 
